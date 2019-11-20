@@ -1,0 +1,19 @@
+================================================================================
+============================ Log system initialized ============================
+============================== 20-11-19 02:00:21 ===============================
+================================================================================
+
+# Success - Checking log folder
+# Success - Checking log file
+# Success - Checking chmod of log file
+
+================================================================================
+============================== Log system Started ==============================
+========================= https://github.com/Sp3ciaL2X =========================
+================================================================================
+
+[20-11-19 03:00:21] - Error : No specified language dir found 'scripts\languagess'
+[20-11-19 03:00:29] - Error : Could not find a folder for the specified language 'englissh'
+[20-11-19 03:01:59] - Error : Could not find the specified 'index' language file
+[20-11-19 03:02:17] - Error : Could not find the specified 'index' language file
+[20-11-19 03:03:25] - Error : Could not find the specified 'indexs' language file
